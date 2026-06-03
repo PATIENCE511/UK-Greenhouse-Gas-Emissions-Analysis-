@@ -58,8 +58,9 @@ The UK recorded a substantial reduction in greenhouse gas emissions between 1990
 Total UK emissions declined by an average of 11,438 thousand tonnes CO₂e annually.
 
 * Largest Annual Reductions
+  
 | Sector | Annual Change (Thousand Tonnes CO₂e) |
-|---------|---------:|
+|---------|-------------------------------------|
 | Electricity, Gas and Steam Supply | -3,614 |
 | Manufacturing | -3,404 |
 | Water Supply and Waste Management | -1,964 |
@@ -69,7 +70,7 @@ These reductions reflect improvements in energy generation, efficiency initiativ
 
 * Largest Annual Increases
 | Sector | Annual Change (Thousand Tonnes CO₂e) |
-|---------|---------:|
+|---------|-------------------------------------|
 | Construction | +84 |
 | Wholesale and Retail Trade | +67 |
 | Accommodation and Food Services | +34 |
