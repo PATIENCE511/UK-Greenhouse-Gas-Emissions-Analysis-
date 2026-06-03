@@ -32,11 +32,12 @@ Bar chart illustrating total greenhouse gas (GHG) emissions by transport activit
 Air transport was identified as the largest contributor to greenhouse gas emissions within the transport sector, generating approximately 1.18 million thousand tonnes CO₂e over the study period.
 
 Key contributors included:
+| Transport Activity | Total Emissions (Thousand Tonnes CO₂e) |
+|-------------------|-----------------------------------------|
+| Air Transport | 1,179,710 |
+| Water Transport Services | 719,787 |
+| Freight Transport by Road | 454,459 |
 
-Transport Activity	        | Total Emissions (Thousand Tonnes CO₂e)
-Air Transport	               |     1,179,710
-Water Transport Services	   | 719,787
-Freight Transport by Road	   |     454,459
 
 This highlights the significant environmental impact of aviation compared with other transport modes.
 
@@ -51,20 +52,23 @@ The UK recorded a substantial reduction in greenhouse gas emissions between 1990
 Total UK emissions declined by an average of 11,438 thousand tonnes CO₂e annually.
 
 * Largest Annual Reductions
-Sector	|Annual Change
-Electricity, Gas and Steam Supply |	-3,614
-Manufacturing	| -3,404
-Water Supply and Waste Management |	-1,964
-Mining and Quarrying	| -1,114
+| Sector | Annual Change (Thousand Tonnes CO₂e) |
+|---------|---------:|
+| Electricity, Gas and Steam Supply | -3,614 |
+| Manufacturing | -3,404 |
+| Water Supply and Waste Management | -1,964 |
+| Mining and Quarrying | -1,114 |
 
 These reductions reflect improvements in energy generation, efficiency initiatives, and the long-term decline of carbon-intensive industries.
 
 * Largest Annual Increases
-Sector	| Annual Change
-Construction	| +84
-Wholesale and Retail Trade	| +67
-Accommodation and Food Services |	+34
-
+| Sector | Annual Change (Thousand Tonnes CO₂e) |
+|---------|---------:|
+| Construction | +84 |
+| Wholesale and Retail Trade | +67 |
+| Accommodation and Food Services | +34 |
+| Administrative and Support Services | +10 |
+| Real Estate Activities | +9 |
 The increase within service-oriented sectors reflects structural changes in the UK economy over time.
 
 ## Methane Emission Reduction Analysis
