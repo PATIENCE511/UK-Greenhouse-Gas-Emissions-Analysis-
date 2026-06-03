@@ -66,9 +66,11 @@ Total UK emissions declined by an average of 11,438 thousand tonnes CO₂e annua
 | Water Supply and Waste Management | -1,964 |
 | Mining and Quarrying | -1,114 |
 
+
 These reductions reflect improvements in energy generation, efficiency initiatives, and the long-term decline of carbon-intensive industries.
 
 * Largest Annual Increases
+  
 | Sector | Annual Change (Thousand Tonnes CO₂e) |
 |---------|-------------------------------------|
 | Construction | +84 |
@@ -76,6 +78,8 @@ These reductions reflect improvements in energy generation, efficiency initiativ
 | Accommodation and Food Services | +34 |
 | Administrative and Support Services | +10 |
 | Real Estate Activities | +9 |
+
+
 The increase within service-oriented sectors reflects structural changes in the UK economy over time.
 
 ## Methane Emission Reduction Analysis
