@@ -1,4 +1,5 @@
-# UK-Greenhouse-Gas-Emissions-Analysis-
+# UK-Greenhouse-Gas-Emissions-Analysis
+## Project Overview
 The objective was to identify major emission contributors within the transport sector, evaluate long-term emission trends across economic sectors, compare emissions between selected service industries, and assess methane emission reductions within key industrial sectors.
 ## Business Questions
 The analysis was designed to answer the following questions:
@@ -8,6 +9,7 @@ The analysis was designed to answer the following questions:
 3. Which sector achieved the greatest reduction in methane (CH₄) emissions over the study period?
    
 ## Tools Used
+
 - Microsoft Excel
 - Descriptive Statistics
 - Trend Analysis
@@ -26,12 +28,16 @@ Period Covered: 1990–2024
 Metrics: Greenhouse Gas Emissions (thousand tonnes CO₂ equivalent)
 
 ## Key Findings
-1. Transport Sector Analysis
-   <img width="706" height="426" alt="Screenshot 2026-06-03 200959" src="https://github.com/user-attachments/assets/103df73f-8f7c-466a-b658-6e7e273f0add" />
+Transport Sector Analysis
+   
+<img width="706" height="426" alt="Screenshot 2026-06-03 200959" src="https://github.com/user-attachments/assets/103df73f-8f7c-466a-b658-6e7e273f0add" />
+ 
 Bar chart illustrating total greenhouse gas (GHG) emissions by transport activity in the UK from 1990 to 2024. Air transport contributes the highest cumulative emissions, followed by water transport and freight transport by road.
+
 Air transport was identified as the largest contributor to greenhouse gas emissions within the transport sector, generating approximately 1.18 million thousand tonnes CO₂e over the study period.
 
 Key contributors included:
+
 | Transport Activity | Total Emissions (Thousand Tonnes CO₂e) |
 |-------------------|-----------------------------------------|
 | Air Transport | 1,179,710 |
